@@ -13,7 +13,7 @@ Clone the repository and set up your Python environment using either:
 Install required packages:
 ```bash
 pip install -r requirements.txt
-
+```
 ### Option 2: Google Colab
 If you prefer not to install locally, use these Colab links:
 
