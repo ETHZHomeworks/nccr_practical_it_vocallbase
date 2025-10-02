@@ -315,7 +315,7 @@ def plot_ngram_entropy(analyzer, title, figsize=(10, 6)):
     plt.tight_layout()
     return fig
 
-def plot_markov_entropy(analyzer, title, figsize=(10, 6)):
+def plot_cond_entropy(analyzer, title, figsize=(10, 6)):
     """Plot Markov chain entropy progression"""
     
     if title not in analyzer.results:
