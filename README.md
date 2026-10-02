@@ -102,6 +102,8 @@ If you wish to compare your annotations to those of a domain expert, go ahead an
 
 If you'd wish to go above and beyond to learn how to benchmark comparisons between annotations, you can find some nice helper functions in label_comparison.py
 
+Feel free to explore other datasets as well!
+
 
 
 
