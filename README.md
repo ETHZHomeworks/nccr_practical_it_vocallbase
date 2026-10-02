@@ -22,7 +22,7 @@ conda activate nccr_it
 
 
 ### Option 2: Google Colab
-If you prefer not to install locally, use these Colab links:
+If you prefer not to install locally and you have a gmail account; you can use this Google Colab link:
 
 Part 1: [<a href="https://colab.research.google.com/drive/12ad5FFXDzTa5ZRRHtc50JWicWoUg2dGF?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>]
 
