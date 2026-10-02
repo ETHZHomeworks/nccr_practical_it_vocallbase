@@ -8,12 +8,19 @@ This assignment consists of two parts that require Python experience. Complete *
 ### Option 1: Local Installation (Recommended)
 Clone the repository and set up your Python environment using either:
 - **venv**: `python -m venv env` then activate with `source env/bin/activate` (Mac/Linux) or `env\Scripts\activate` (Windows)
-- **miniconda**: Create and activate a new conda environment
 
-Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
+
+- **miniconda**: Create a new conda environment
+
+```bash
+conda create --name nccr_it --file requirements.txt
+conda activate nccr_it
+```
+
+
 ### Option 2: Google Colab
 If you prefer not to install locally, use these Colab links:
 
@@ -28,5 +35,4 @@ Uses text_analysis.py helper functions
 Complete instructions are in the notebook -- there are some questions to deepen your insights into information theory applied to language
 
 ### Part 2: VoCallBase Annotation Comparison
-
 
