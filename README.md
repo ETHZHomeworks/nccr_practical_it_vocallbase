@@ -69,28 +69,38 @@ Return to the Browse Files menu and select "Annotate" to make your own annotatio
 <img width="1354" height="421" alt="image" src="https://github.com/user-attachments/assets/95558596-0c04-40c4-93fe-28ef57c672ed" />
 
 In the new CallMark interface, select the "Add new species" button to create a new class of labels - 
+
 <img width="455" height="79" alt="image" src="https://github.com/user-attachments/assets/98ea02a3-f09e-4922-8386-9b7c41f00ede" />
 
 Make it align with what is seen from the domain expert annotations from the View menu (species - "canaries" and individual can be identified from the filename) - 
+
 <img width="723" height="76" alt="image" src="https://github.com/user-attachments/assets/198385e9-0215-4be6-84f1-c6d3d685ac3d" />
 
 Select the individual and vocalizations classes you created - 
+
 <img width="726" height="74" alt="image" src="https://github.com/user-attachments/assets/87c58a11-c5a7-4d9f-92b6-caf2f3424e35" />
 
 You will see the new annotation classes appear below the spectrogram - 
+
 <img width="395" height="87" alt="image" src="https://github.com/user-attachments/assets/f88184ff-c525-4f38-8c0b-ad0252b35ae7" />
 
 You may now use that class of annotations to select the onsets and offsets by left clicking where you see and hear those classes of annotations occur on the spectrogram - 
+
 <img width="1337" height="602" alt="image" src="https://github.com/user-attachments/assets/7de11860-5829-488a-8e54-0a1fdaa9189e" />
 
 To make fine-adjustments to an annotation click and hold on the onset-offset vertical lines tweak them. To delete an annotation, right click on the annotation below the spectrogram viewer - 
+
 <img width="177" height="541" alt="image" src="https://github.com/user-attachments/assets/af7596d0-3122-46be-be1c-2b94cf2d78bd" />
 
 Once you are done annotating, press the "Annotated Area" button to indicate where you have annotated, increasing the spectrogram view slider makes this easier if you have annotated an entire clip -
+
 <img width="1913" height="617" alt="image" src="https://github.com/user-attachments/assets/2a82d511-1f5b-42be-8035-5fe9ba4a49de" />
 
 If you wish to compare your annotations to those of a domain expert, go ahead and download your annotations -
+
 <img width="386" height="291" alt="image" src="https://github.com/user-attachments/assets/e0ac3aba-00aa-491b-bd19-cd630ffb3408" />
+
+If you'd wish to go above and beyond to learn how to benchmark comparisons between annotations, you can find some nice helper functions in label_comparison.py
 
 
 
